@@ -6,6 +6,7 @@ Currently, this works by re-routing the Communication menu to do Link Play inste
 Hopefully I can add support for both at the same time soon.
 
 Applies to ROM:
+
 Sword of Mana (USA, Australia)
 
 No-Intro: Game Boy Advance (v. 20210227-023848)
