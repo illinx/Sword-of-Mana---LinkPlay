@@ -1,9 +1,9 @@
 # Sword of Mana - LinkPlay
 Patch that re-enables the disabled linkplay option in Sword of Mana
 
-Currently, this works by re-routing the Communication menu to do Link Play instead of Amigo trading, so Amigo trading is inaccessible in this version.
+v1.0 - "2PLAYER MODE" is now a 4th option on the main menu. It will become visible when the user has a save file on the cartridge, like "CONTINUE" and "COMMUNICATION"
 
-Hopefully I can add support for both at the same time soon.
+Amigo trading functionality remains on "COMMUNICATION" menu
 
 Applies to ROM:
 
