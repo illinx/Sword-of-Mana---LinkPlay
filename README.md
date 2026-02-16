@@ -1,9 +1,12 @@
 # Sword of Mana - LinkPlay
 Patch that re-enables the disabled linkplay option in Sword of Mana
 
-v1.0 - "2PLAYER MODE" is now a 4th option on the main menu. It will become visible when the user has a save file on the cartridge, like "CONTINUE" and "COMMUNICATION"
+v1.1 (currently in testing folder). Re-enables audio on the Host when playing 2PLAYER MODE. Client has SFX but no BGM. This is the first release which includes my own gameplay changes that go beyond recovering what was on the ROM and tries to fix bugs and improve the experience. If you want to play what was shipped in the ROM, stick to 1.0.
+
+v1.0 - "2PLAYER MODE" is now a 4th option on the main menu. It will become visible when the user has a save file on the cartridge, like "CONTINUE" and "COMMUNICATION". The gameplay is otherwise identical to what was hidden on the cartridge.
 
 Amigo trading functionality remains on "COMMUNICATION" menu
+
 
 Applies to ROM:
 
